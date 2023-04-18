@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Amritangshu Mukherjee, an experienced data scientist and technology consultant with a strong background in business analytics and project management. I'm currently pursuing my Master of Science in Business Analytics from the McCombs School of Business at UT Austin.<br><br>My professional journey began at ZS, where I spent five years in various roles, from Business Technology Analyst to Consultant in Business Technology Solutions. I specialized in strategizing and designing cloud-based technology solutions for Fortune 500 pharma clients, leveraging my expertise in AWS, Python, SQL, and Agile Methodologies.<br><br>In 2022, I took on the role of ESG and Analytics Consultant and Team Leader at Coupa 
+Hi, I'm Amritangshu Mukherjee, an experienced data scientist and technology consultant with a strong background in business analytics and project management. I'm currently pursuing my Master of Science in Business Analytics from the McCombs School of Business at UT Austin.<br><br>My professional journey began at ZS, where I spent five years in various roles, from Business Technology Analyst to Consultant in Business Technology Solutions. I specialized in strategizing and designing cloud-based technology solutions for Fortune 500 pharma clients, leveraging my expertise in AWS, Python, SQL, and Agile Methodologies.<br><br>
 
 
 ## 🌐 Socials:
